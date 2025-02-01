@@ -16,25 +16,27 @@ QuizApp is a web-based quiz application built using **React.js** with gamificati
 ✅ Animated results summary with **score-based feedback**  
 ## Installation 🛠️  
 
-1. **Clone the repository**  
+1. **Clone the repository**
+
    ```sh
    git clone https://github.com/your-username/quiz-app.git
    ```
-2. **Navigate to the project directory**  
+3. **Navigate to the project directory**  
    ```sh
    cd quiz-app
    ```
-3. **Install dependencies**  
+4. **Install dependencies**  
    ```sh
    npm install
    ```
-4. **start the backend server**
+5. **start the backend server**
    ```bash
    node server.js
    ```
  The backend will run on http://localhost:5000/.
 
  5. **start the frontend react app**
+    
     ```bash
     npm start
     ```
