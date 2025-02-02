@@ -54,9 +54,11 @@ Backend (Node.js & Express.js)
 - 🌐 Express.js – API and proxy server
 - 🔗 Axios – Fetching external quiz data
 - 🔓 CORS – Handling cross-origin requests
-- 📸 Screenshots
+
+
 
 📜 License
+
 This project is open-source. Feel free to contribute! 🚀
 
 
